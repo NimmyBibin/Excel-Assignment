@@ -3,11 +3,11 @@ This repository contains my submission for the teaching evaluation as per the re
 
 1. Teaching Video
 A 10-minute instructional video explaining an MS Excel concept for beginners.
-📌 Video Link: [Insert Video Link]
+📌Presentation Link: [Insert Video Link]
 
 2. MS Excel Course Syllabus
 A structured syllabus outlining the modules, topics, and assessments for an MS Excel course.
-📌 Syllabus Document: [Download Here](Insert Syllabus Link)
+📌 Syllabus Document: [Download Here]([(https://github.com/NimmyBibin/Excel-Assignment/blob/main/Data%20Analysis%20Using%20MS%20Excel_syllabus.docx))])
 
 Submission Details
 Submitted by: Nimmy Joy
