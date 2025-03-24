@@ -12,9 +12,9 @@ A structured syllabus outlining the modules, topics, and assessments for an MS E
 Submission Details
 Submitted by: Nimmy Joy
 
-Date of Submission: [Insert Date]
+Date of Submission: [25-March-2025]
 
-Contact: [Your Email or GitHub Profile]
+Contact: [nimmyjoykarickadu@gmail.com]
 
 For any further queries, please feel free to reach out.
 
