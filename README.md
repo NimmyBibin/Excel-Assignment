@@ -8,6 +8,9 @@ A 10-minute instructional video explaining an MS Excel concept for beginners.
 2. MS Excel Course Syllabus
 A structured syllabus outlining the modules, topics, and assessments for an MS Excel course.
 📌 Syllabus Document: [Download Here]([(https://github.com/NimmyBibin/Excel-Assignment/blob/main/Data%20Analysis%20Using%20MS%20Excel_syllabus.docx))])
+3. Excel file(sample dataset)
+📌 Dataset: [https://github.com/NimmyBibin/Excel-Assignment/blob/main/sales_data%20_Nimmy.xlsx]
+
 
 Submission Details
 Submitted by: Nimmy Joy
